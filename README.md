@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @09priyanshee
-- 👀 I’m interested in python, machine learning and AI
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on projects realted to python
-- 📫 priyansheeparmar@gmail.com
 
-<!---
-09priyanshee/09priyanshee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+The Comprehensive Guide to Pandas Functions Colab notebook. 
+
+Introduction:
+- The guide introduces the purpose and structure of learning Pandas functions.
+- Emphasizes the relevance of using a grocery store dataset for practical learning.
+- Outlines the objectives, coverage, and benefits of the guide.
+
+Key Features:
+- Provides comprehensive coverage of Pandas functions with code demonstrations.
+- Offers clear explanations and use cases for each function.
+- Facilitates interactive learning through a hands-on Colab environment.
+
+Next Steps:
+- The notebook is ready for further development and refinement.
+- Future commits will include additions, updates, and improvements to the guide.
+
+
+This is the initial step in creating a valuable resource for learning Pandas functions. The guide aims to empower users with essential data manipulation skills using real-world examples.
+
